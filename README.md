@@ -75,46 +75,6 @@ Website portfolio pribadi yang menampilkan profil, kemampuan, dan proyek yang te
 
 ---
 
-## 📊 Statistik GitHub
-
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HanifMuthiarT&theme=github_dark"
-  width="100%"
-  alt="GitHub Profile Details"
-/>
-
-<br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanifMuthiarT&theme=github_dark"
-  width="48%"
-  alt="GitHub Statistics"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanifMuthiarT&theme=github_dark"
-  width="48%"
-  alt="Repositories per Language"
-/>
-
-<br>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HanifMuthiarT&theme=github_dark"
-  width="48%"
-  alt="Most Used Languages"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HanifMuthiarT&theme=github_dark&utcOffset=7"
-  width="48%"
-  alt="Productive Time"
-/>
-
-</div>
-
 ---
 
 ## 📈 Aktivitas Kontribusi
