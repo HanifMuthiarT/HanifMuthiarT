@@ -79,15 +79,39 @@ Website portfolio pribadi yang menampilkan profil, kemampuan, dan proyek yang te
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=HanifMuthiarT&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HanifMuthiarT&theme=github_dark"
+  width="100%"
+  alt="GitHub Profile Details"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanifMuthiarT&layout=compact&theme=github_dark&hide_border=true" />
+<br>
 
-</div>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HanifMuthiarT&theme=github_dark"
+  width="48%"
+  alt="GitHub Statistics"
+/>
 
-<div align="center">
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HanifMuthiarT&theme=github_dark"
+  width="48%"
+  alt="Repositories per Language"
+/>
 
-<img src="https://streak-stats.demolab.com?user=HanifMuthiarT&theme=github-dark-blue&hide_border=true" />
+<br>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HanifMuthiarT&theme=github_dark"
+  width="48%"
+  alt="Most Used Languages"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=HanifMuthiarT&theme=github_dark&utcOffset=7"
+  width="48%"
+  alt="Productive Time"
+/>
 
 </div>
 
