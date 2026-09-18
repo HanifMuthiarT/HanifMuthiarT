@@ -12,12 +12,12 @@
 
 ## 👨‍💻 Tentang Saya
 
-🎓 Fresh Graduated **S1 Teknik Informatika** di Universitas LanglangBuana  
+🎓 Fresh Graduated di **Universitas LanglangBuana**  
 📍 Berdomisili di **Bandung, Indonesia**  
-💡 Tertarik pada bidang **Backend Development, Web Development, Data, dan Artificial Intelligence**  
-🌱 Saat ini sedang mempelajari pengembangan aplikasi menggunakan **Python, PHP, dan JavaScript**  
-🚀 Senang membangun aplikasi yang dapat membantu menyelesaikan permasalahan sehari-hari  
-🤝 Terbuka untuk kolaborasi dalam proyek teknologi dan pengembangan perangkat lunak  
+Tertarik pada bidang **Backend Development, Web Development, Data, dan Artificial Intelligence**  
+Saat ini sedang mempelajari pengembangan aplikasi menggunakan **Python, PHP, dan JavaScript**  
+Senang membangun aplikasi yang dapat membantu menyelesaikan permasalahan sehari-hari  
+Terbuka untuk kolaborasi dalam proyek teknologi dan pengembangan perangkat lunak  
 
 ---
 
